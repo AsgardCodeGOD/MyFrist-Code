@@ -1,6 +1,0 @@
-D:\AsgardCodeGOD\First Variable Code\First Variable Code\bin\Debug\First Variable Code.exe.config
-D:\AsgardCodeGOD\First Variable Code\First Variable Code\bin\Debug\First Variable Code.exe
-D:\AsgardCodeGOD\First Variable Code\First Variable Code\bin\Debug\First Variable Code.pdb
-D:\AsgardCodeGOD\First Variable Code\First Variable Code\obj\Debug\First Variable Code.csprojResolveAssemblyReference.cache
-D:\AsgardCodeGOD\First Variable Code\First Variable Code\obj\Debug\First Variable Code.exe
-D:\AsgardCodeGOD\First Variable Code\First Variable Code\obj\Debug\First Variable Code.pdb
